@@ -1,0 +1,2 @@
+libssr-glinject-dbg: wrong-section-according-to-package-name libssr-glinject-dbg => debug
+libssr-glinject-dbg: debug-package-should-be-priority-extra libssr-glinject-dbg
